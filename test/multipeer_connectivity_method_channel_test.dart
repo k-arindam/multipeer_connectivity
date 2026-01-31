@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:multipeer_connectivity/multipeer_connectivity_method_channel.dart';
+import 'package:multipeer_connectivity/src/multipeer_connectivity_method_channel.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
